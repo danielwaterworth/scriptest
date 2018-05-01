@@ -1,0 +1,11 @@
+{
+  "name": "scriptest",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "diff": "^3.5.0",
+    "error-stack-parser": "^2.0.1"
+  },
+  "devDependencies": {},
+  "main": "src/scriptest.js"
+}
